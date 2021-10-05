@@ -59,7 +59,7 @@ const descriptionStyle = {
 const docLink = {
   text: "Documentation",
   url: "https://www.gatsbyjs.com/docs/",
-  color: "#8954A8",
+  color: "#8854A8",
 }
 
 const badgeStyle = {
