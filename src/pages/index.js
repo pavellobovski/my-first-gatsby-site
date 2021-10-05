@@ -21,7 +21,7 @@ const codeStyles = {
   color: "#8A6534",
   padding: 4,
   backgroundColor: "#FFF4DB",
-  fontSize: "1.25rem",
+  fontSize: "1.5rem",
   borderRadius: 4,
 }
 const listStyles = {
